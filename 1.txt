@@ -1,0 +1,16 @@
+1.git init
+2.git config user.name "username"
+3.git config user.email "email github"
+4.git add *
+5.git commit -m "some init msg"
+
+git clone https bla2 (copas alamatmu github full)
+kl sukses,
+masuk repositorymu
+misal aku timotiusalvin/tos
+jadi : cd tos
+touch tes.txt
+git status (tes jadi merah)
+git add tes.txt (tes jadi ijo)
+git status (new file tes.txt -- ijo)
+git commit
